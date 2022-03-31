@@ -2,6 +2,13 @@
 
 ## Installation
 
+Clone the repository and go this directory:
+
+```bash
+git clone https://github.com/msankhala/graphql-python-api.git
+cd graphql-python-api
+```
+
 Create the virtual environment:
 
 ```bash
